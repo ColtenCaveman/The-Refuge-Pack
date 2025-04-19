@@ -25,7 +25,6 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/nightlights">Night Lights (by joosh_7889)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/lookin-sharp">Lookin' Sharp (by joosh_7889)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/modernfix">ModernFix (by embeddedt)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/sweet-calamity">Sweet Calamity (by ValEnd)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamictrees">Dynamic Trees (by MaxHyper)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/terrablender">TerraBlender (Forge) (by TheAdubbz)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-midnight">The Midnight (by f1ashfyre)</a></li>
@@ -98,6 +97,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks">Iron's Spells 'n Spellbooks (by Iron431)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge">YUNG's Better Mineshafts (Forge/NeoForge) (by YUNGNICKYOUNG)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/born-in-chaos">Born in Chaos (by mongoose_artist)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures">MVS - Moog's Voyager Structures (by finndog_123)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/obscure-api">Obscure API (Forge) (by Obscuria)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/magnesium-extras">Sodium/Embeddium Extras (by Txni)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d">Skin Layers 3D (Fabric/Forge) (by tr7zw)</a></li>
@@ -184,6 +184,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/athena">Athena (by CodexAdrian)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-doors">Macaw's Doors (by sketch_macaw)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/natures-compass">Nature's Compass (by Chaosyr)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/mss-moogs-soaring-structures">MSS - Moog's Soaring Structures (by finndog_123)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-paintings">Macaw's Paintings (by sketch_macaw)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api">Forgified Fabric API (by Su5eD)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls">Macaw's Fences and Walls (by sketch_macaw)</a></li>
@@ -194,3 +195,4 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/pehkui">Pehkui (by Virtuoel)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/beware-the-rain">Beware The Rain (by TheBladeNinja)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/goblin-traders">Goblin Traders (by MrCrayfish)</a></li>
+</ul>
